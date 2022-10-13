@@ -1,0 +1,25 @@
+.title{
+    /*Make the font size 100px, text color in red, and background
+    color in green*/
+    font-size: 100px;
+    color: red;
+    background-color: green;
+}
+
+#likes{
+    /*Make the background yellow and text color green*/
+    background-color: yellow;
+    color: green;
+}
+
+#dislikes{
+    /*Make the background blue and text color purple*/
+    background-color: blue;
+    color: purple;
+}
+
+.list{
+    /*Make the font size 50 px and a margin on the left of 50px.*/
+    margin-left: 50px;
+    font-size: 50px;
+}
